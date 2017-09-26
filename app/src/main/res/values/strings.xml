@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">서울아트</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="info_loading">서울시립미술관 소장 작품들을 준비하고 있습니다.</string>
+    <string name="info_loading_info">작품 감상을 해볼까요?</string>
+    <string name="ind_name">작가명</string>
+    <string name="ind_category">분류</string>
+    <string name="ind_size">작품크기</string>
+    <string name="ind_material">재료</string>
+</resources>
